@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MariaHalamska/react-app.git/static/css/main.d862c891.css",
-    "main.js": "/MariaHalamska/react-app.git/static/js/main.9384ef2f.js",
-    "static/js/453.893d7983.chunk.js": "/MariaHalamska/react-app.git/static/js/453.893d7983.chunk.js",
-    "index.html": "/MariaHalamska/react-app.git/index.html",
-    "main.d862c891.css.map": "/MariaHalamska/react-app.git/static/css/main.d862c891.css.map",
-    "main.9384ef2f.js.map": "/MariaHalamska/react-app.git/static/js/main.9384ef2f.js.map",
-    "453.893d7983.chunk.js.map": "/MariaHalamska/react-app.git/static/js/453.893d7983.chunk.js.map"
+    "main.css": "/react-app/static/css/main.d862c891.css",
+    "main.js": "/react-app/static/js/main.6c5a3473.js",
+    "static/js/453.893d7983.chunk.js": "/react-app/static/js/453.893d7983.chunk.js",
+    "index.html": "/react-app/index.html",
+    "main.d862c891.css.map": "/react-app/static/css/main.d862c891.css.map",
+    "main.6c5a3473.js.map": "/react-app/static/js/main.6c5a3473.js.map",
+    "453.893d7983.chunk.js.map": "/react-app/static/js/453.893d7983.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d862c891.css",
-    "static/js/main.9384ef2f.js"
+    "static/js/main.6c5a3473.js"
   ]
 }
