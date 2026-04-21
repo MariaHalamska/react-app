@@ -11,3 +11,25 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.card {
+  max-width: 40vw;
+  height: 20vh;
+  padding: 5vh 5vw;
+  background-color: #fff8ee;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.button {
+  margin-top: 5vh;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #000000;
+  background-color: #ffd4b7;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.button:hover {
+  background-color: #ffb380;
+}
