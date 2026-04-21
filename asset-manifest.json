@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MariaHalamska/react-app.git/static/css/main.d862c891.css",
+    "main.js": "/MariaHalamska/react-app.git/static/js/main.9384ef2f.js",
+    "static/js/453.893d7983.chunk.js": "/MariaHalamska/react-app.git/static/js/453.893d7983.chunk.js",
+    "index.html": "/MariaHalamska/react-app.git/index.html",
+    "main.d862c891.css.map": "/MariaHalamska/react-app.git/static/css/main.d862c891.css.map",
+    "main.9384ef2f.js.map": "/MariaHalamska/react-app.git/static/js/main.9384ef2f.js.map",
+    "453.893d7983.chunk.js.map": "/MariaHalamska/react-app.git/static/js/453.893d7983.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d862c891.css",
+    "static/js/main.9384ef2f.js"
+  ]
+}
