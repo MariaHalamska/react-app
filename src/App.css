@@ -5,6 +5,11 @@
   width: 20vw;
   margin: 0 auto;
 }
+.weather {
+  font-weight: bold;
+  font-size: 3vw;
+  color: rgb(253, 180, 97);
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
